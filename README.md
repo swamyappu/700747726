@@ -1,4 +1,4 @@
-# 700747726
+# 700747726 - https://drive.google.com/file/d/1rp4xpCLhRa6C0zajPlAmTb3JnRj6yZ1Z/view?usp=share_link
 
 # Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the
 # resultant string and print it. 
