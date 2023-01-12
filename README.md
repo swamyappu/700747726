@@ -1,7 +1,7 @@
 # 700747726 - https://drive.google.com/file/d/1rp4xpCLhRa6C0zajPlAmTb3JnRj6yZ1Z/view?usp=share_link
 
-# Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the
-# resultant string and print it. 
+# Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it. 
+
 Step 1 : storing the entered string from console to a variable 'text'.
 step 2 : check if the length of the string is less than or equal to 5.
 step 3 : if check pass print that the length should be more than 5.
