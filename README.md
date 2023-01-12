@@ -16,6 +16,7 @@ step 11 : print the result
 
 input - python
 output - ntyp
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Take two numbers from user and perform at least 4 arithmetic operations on them
