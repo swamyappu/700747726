@@ -32,6 +32,7 @@ step 8 : check if val2 is not zero.
 step 9 : if check pass then print the result of val1 divided by val2.
 step 10 : if check fail then print that the division is infinity.
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Write a program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’
