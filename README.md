@@ -24,6 +24,9 @@ output - ntyp
 
 # Take two numbers from user and perform at least 4 arithmetic operations on them
 
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/6451556/212207380-16fd10cd-58b4-484c-9e13-d744a6eb7d89.png">
+
+
 step 1 : store the given first number in a variable val1 in float type.
 step 2 : store the given second number in a variable val2 in float type.
 step 3 : print he addition result.
@@ -40,6 +43,9 @@ step 10 : if check fail then print that the division is infinity.
 
 #Write a program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’
 
+<img width="784" alt="image" src="https://user-images.githubusercontent.com/6451556/212207458-cb72e67b-8738-4222-8883-14ad770f0127.png">
+
+
 step 1 : store the given string in a variable input_str.
 step 2 : replace the word 'python' with the word 'pythons' in the string using the replace function.
 step 3 : print the result
@@ -47,6 +53,9 @@ step 3 : print the result
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Use the if statement conditions to write a program to print the letter grade based on an input class score. Use the grading scheme we are using in this class
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/6451556/212207527-df1f3884-4a1e-4c41-92ce-f25da2b6e3f0.png">
+
 
 Step 1 : store the input score in int format in variable scr
 step 2 : if score greater than 90 then print Grade A
