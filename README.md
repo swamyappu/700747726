@@ -2,7 +2,7 @@
 
 # Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it. 
 
-<img width="789" alt="image" src="https://user-images.githubusercontent.com/6451556/212207281-6cd0a7c4-eff5-438c-84ef-fc2cbda6af6c.png">
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/6451556/212214554-d1931398-3a2a-45d4-9b84-0a7cd92d99b9.png">
 
 
 Step 1 : storing the entered string from console to a variable 'text'.
@@ -24,7 +24,7 @@ output - ntyp
 
 # Take two numbers from user and perform at least 4 arithmetic operations on them
 
-<img width="788" alt="image" src="https://user-images.githubusercontent.com/6451556/212207380-16fd10cd-58b4-484c-9e13-d744a6eb7d89.png">
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/6451556/212214728-39a748e9-53bd-4a81-9fda-2c333d5442b2.png">
 
 
 step 1 : store the given first number in a variable val1 in float type.
@@ -43,7 +43,7 @@ step 1 : store the given first number in a variable val1 in float type.
 
 #Write a program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’
 
-<img width="784" alt="image" src="https://user-images.githubusercontent.com/6451556/212207458-cb72e67b-8738-4222-8883-14ad770f0127.png">
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/6451556/212214829-c9e5a122-81fb-4457-9134-bc4977e4180a.png">
 
 
 <br>step 1 : store the given string in a variable input_str.
@@ -54,7 +54,7 @@ step 1 : store the given first number in a variable val1 in float type.
 
 # Use the if statement conditions to write a program to print the letter grade based on an input class score. Use the grading scheme we are using in this class
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/6451556/212207527-df1f3884-4a1e-4c41-92ce-f25da2b6e3f0.png">
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/6451556/212214970-bb9296ae-e585-4b8c-ac7a-afc0141767c2.png">
 
 
 Step 1 : store the input score in int format in variable scr
