@@ -6,7 +6,7 @@
 
 
 Step 1 : storing the entered string from console to a variable 'text'.
-step 2 : check if the length of the string is less than or equal to 5.
+<br>step 2 : check if the length of the string is less than or equal to 5.
 step 3 : if check pass print that the length should be more than 5.
 step 4 : if check fails convert the string to list.
 step 5 : remove characte at position 3.
