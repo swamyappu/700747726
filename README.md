@@ -2,6 +2,9 @@
 
 # Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it. 
 
+<img width="789" alt="image" src="https://user-images.githubusercontent.com/6451556/212207281-6cd0a7c4-eff5-438c-84ef-fc2cbda6af6c.png">
+
+
 Step 1 : storing the entered string from console to a variable 'text'.
 step 2 : check if the length of the string is less than or equal to 5.
 step 3 : if check pass print that the length should be more than 5.
